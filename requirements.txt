@@ -1,0 +1,17 @@
+duckdb>=0.9.0
+pandas
+pyarrow
+streamlit
+folium
+streamlit-folium
+pydeck
+matplotlib
+seaborn
+requests
+polars
+scikit-learn
+openmeteo-requests
+requests-cache
+retry-requests
+plotly
+statsmodels
